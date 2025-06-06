@@ -52,7 +52,12 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=evandroorso&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div class="row" align="center">
+  <div class="column">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/EvandroOrso?cardType=github&theme=dark&preferLogin=false" alt="evandroorso" style="width:49%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EvandroOrso&show_icons=true&theme=dark&locale=en&layout=compact" alt="evandroorso" style="width:40%">
+  </div>
+</div>
 
 <br/>  
 
